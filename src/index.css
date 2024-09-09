@@ -1,0 +1,32 @@
+body {
+  font-family: 'Arial', Times, serif, sans-serif;
+  background-color: #9984a1;
+  margin: 0;
+  padding: 20px;
+  
+}
+
+input, button {
+  margin: 5px;
+}
+
+#todo {
+  text-align: center;
+}
+
+#butoneElim{
+  border: 2px solid #f44336;
+}
+
+#butoneelim:hover {
+  background: #da190b;
+}
+ 
+
+#butoneAdd {
+  border: 2px solid #04AA6D;
+}
+
+#butoneAdd {
+  background-color: #46a049;
+}
